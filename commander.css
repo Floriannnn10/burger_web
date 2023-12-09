@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.paragraphe{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.bouton1{
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    margin-top: 400px; 
+    justify-content: space-between; 
+}
+
+button{
+    background-color: darkblue;
+    color: white;
+    height: 30px;
+    
+}
+
+button:hover{
+    color: red;  
+}
+.contenu{
+    height: 80vh;
+    width: 100%;
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background: url(Image/IMAGE\ DE\ LA\ PAGE\ COMMANDER\ AVEC\ OMBRE\ A\ GAUCHE\ EN\ BAS_Plan\ de\ travail\ 1.jpg);
+}
+
+
+

@@ -1,0 +1,12 @@
+Hey, j'espère que ce projet vous trouveras en bonne santé.
+Il vous sera démander de reproduire le site en (FlexBox et Grid) de préférences ou avec Bootstrap **Tout le site** en allant sur le lien ci-dessous: 
+
+Le Site à Réproduire: https://xd.adobe.com/view/ccdecb7f-afe1-4d5b-9cc1-bd6f9f7a7555-998d/
+
+
+**important**: Pas la peine d'heberger envoyer moi directement le projet zipper du groupe sur moodle.
+
+
+Nb: Utiliser les compétences vues lors des séances de cours pour pourvoir récupérer les images.
+   Vous avez la Liberté d'améliorer le site avec vos idéés Personnelles **Tout le site**.
+
