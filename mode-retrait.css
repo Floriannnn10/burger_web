@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+.bar{
+    height: 217px;
+    background-image: url(Image/header.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: 75px;
+    color: #1c3c7f;
+    font-family: 'bernard-mt-condensed-regular', serif;
+}
+.bar p{
+    position: relative;
+    top: -16px;
+    left: 100px;
+    font-weight: bold;
+}
+
+.corp{
+    margin-top: 30px;
+    padding: 0 99px;
+}
+
+.corp h3{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #1c3c7f;
+    font-size: 20px;
+}
+.corp .boxs{
+    display: flex;
+}
+.corp .boxs .bb2{
+    margin-left: 30px;
+}
+.corp .boxs .box1{
+    border: #000000 1px solid;
+    border-radius: 50px;
+    height: 470px;
+    width: 250px;
+    z-index: 1;
+    color: #1c3c7f;
+}
+.corp .boxs .box1 .img{
+    padding-top: 20px;
+    border: #e09300 solid 1px;
+    height: 290px;
+    width: 250px;
+    background-image: url(Image/5555.png);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50px;
+    margin-bottom: 30px;
+    position: relative;
+    right: 1px;
+    top: -2px;
+    z-index: 3;
+}
+.corp .boxs .box1 p{
+    font-size: 26px;
+    margin-left: 18px;
+}
